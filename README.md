@@ -3,4 +3,4 @@
 
 ## Local Development
 1. Open Index.html
-2. Lebron James
+2. Lebron Jamess
