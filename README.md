@@ -3,4 +3,5 @@
 
 ## Local Development
 1. Open Index.html
-2. Lebron Jamess
+2. Lebron Jamessss
+3. SAMPLE
