@@ -1,0 +1,34 @@
+diff --git a/changes.patch b/changes.patch
+new file mode 100644
+index 0000000..713ea78
+--- /dev/null
++++ b/changes.patch
+@@ -0,0 +1,14 @@
++gtidiff --git a/sample.txt b/sample.txt
++index 4e0ea38..3e8fa76 100644
++--- a/sample.txt
+++++ b/sample.txt
++@@ -2,4 +2,6 @@
++ DOUBLE O FIRE
++ SAmple
++ Sample
++-New Sample
++\ No newline at end of file
+++New Sample
+++LebronLebron
+++John Cena
++\ No newline at end of file
+diff --git a/sample.txt b/sample.txt
+index 4e0ea38..3e8fa76 100644
+--- a/sample.txt
++++ b/sample.txt
+@@ -2,4 +2,6 @@
+ DOUBLE O FIRE
+ SAmple
+ Sample
+-New Sample
+\ No newline at end of file
++New Sample
++LebronLebron
++John Cena
+\ No newline at end of file
